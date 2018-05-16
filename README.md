@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Test
 Testing
 =======
@@ -12,3 +13,6 @@ After forking this repository, you can make some changes to the project, and sub
 
 For some more information on how to fork a repository, [check out our guide, "Forking Projects""](http://guides.github.com/overviews/forking/). Thanks! :sparkling_heart:
 >>>>>>> 1ed485b3ffdca723ed01776c4b275a62502b4b33
+=======
+# marvel2
+>>>>>>> bf778dbebe3eae59ca53dd20c3516123e8b2edeb
